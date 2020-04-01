@@ -1,4 +1,5 @@
-# vuex1
+# VueX State
+simple template for a VueX state test
 
 ## Project setup
 ```
