@@ -1,5 +1,6 @@
 # VueX State
-simple template for a VueX state test
+simple template for a VueX state test from the official documentation:
+https://vuex.vuejs.org/guide/state.html
 
 ## Project setup
 ```
